@@ -1,0 +1,25 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT          TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+W_WWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWPPPPPPPWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWW_W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWPPPPPPPWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTT                           TTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTT           Op%c%Oes extras                  TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT                                                         TTTTTTTTTTTTT
+TTTTTTT                                                                 TTTTTTTT
+TTTTTT        -> apar%Encia dos menus: [b] branco e preto                 TTTTTTT
+TTTTT                                 [f] floresta                         TTTTT
+TTTTT                                 [t] tundra                           TTTTT
+TTTTT                                 [d] deserto                          TTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTTTT   -> apar%Encia do avi%Ao/tiros:     /                            TTTTTTTT
+TTTTTT                                                                    TTTTTT
+TTTTTT       [a] para avi%Ao ou [k] para tiro + um dos seguintes:           TTTTT
+TTTTTT                                                                     TTTTT
+TTTTT         %1   %2   %3   %4   %5   %6   %7   %8   %9   %0   A   !               TTTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTTTT      [1] [2] [3] [4] [5] [6] [7] [8] [9] [0] [-] [=]              TTTTTT
+TTTTTTTT                                                                TTTTTTTT
+TTTTTTTTT                                                             TTTTTTTTTT
+TTTTTTTTTTT             ( pressione outra tecla para )           TTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT           ( retornar ao menu )            TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTT                         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

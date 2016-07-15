@@ -1,0 +1,25 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT          TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+W_WWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWPPPPPPPWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWW_W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWPPPPPPPWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTT                           TTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTT           Instru%c%Oes                     TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT                                                         TTTTTTTTTTTTT
+TTTTTTT     -> destrua todas as pontes poss%iveis! pontes! p! p!            TTTTTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTT      -> combust%ivel %e limitado: voc%E tem 100 e perde 0,4 por         TTTTT
+TTTTT         linha de movimento; as pistas d%Ao 30 por linha               TTTTT
+TTTTT                                                                      TTTTT
+TTTTTT     -> voc%E perde se o combust%ivel acabar ou colidir com           TTTTTTT
+TTTTTTT       inimigos ou terreno                                       TTTTTTTT
+TTTTTT                                                                    TTTTTT
+TTTTTT    -> tente entrar nos highscores!         G                        TTTTT
+TTTTTT      - navio, 30 pontos                    G  -> pista de           TTTTT
+TTTTT       - helic%optero, 60 pontos              G    combust%ivel        TTTTTT
+TTTTTT      - pontes, 200 pontos                  G                      TTTTTTT
+TTTTTTT                                                                   TTTTTT
+TTTTTTTT     NNNN -> navio      X -> helic%optero                        TTTTTTTT
+TTTTTTTTT                                                             TTTTTTTTTT
+TTTTTTTTTTT             ( pressione uma tecla para )             TTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT           ( retornar ao menu )            TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTT                         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

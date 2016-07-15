@@ -1,0 +1,25 @@
+A WI%N%NER IS THEM A WI%N%NER IS THEM A WI%N%NER IS THEM A WI%N%NER IS THEM A WI%N%NER IS 
+                                                                               T
+W                                                                              H
+I     ____ Desenvolvedores: ____         for (i = 0; 0 < ALTMAX; i++) {        E
+%N    |                          |            mapa[i][j] = '#';                 M
+%N    |                          |        }                                      
+E    |     Igor  e  %Giovani     |                                              A
+R    |                          |                                               
+     |__________________________|                                              W
+I                                     while (!vivo) {                          I
+S                                          printFromFile("gameover.txt");      %N
+                                           vivo = 0;                           %N
+T                                     }                                        E
+H      switch (fase[i][j]) {                                                   R
+E          case 'T':                                     int taxa = 0.5;        
+M          case ' ':                                                           I
+           default: printf("erro em [%%d][%%d]", i, k);                          S
+A      }                                                                        
+                                               do {                            T
+W                                                 textcolor(rand()%%255);       H
+I             #include "RodaFase.h"               printf("HUE");               E
+%N             #include "RodaFase.h"            } while (zoera);                M
+%N                                                                               
+E                                                                              A
+R IS THEM A WI%N%NER IS THEM A WI%N%NER IS THEM A WI%N%NER IS THEM A WI%N%NER IS THEM A 

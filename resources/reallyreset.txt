@@ -1,0 +1,8 @@
+ ========================================================== 
+|                                                          |
+|        %Tem certeza que deseja resetar a fase?            |
+|  %Todos os pontos desde a %ultima ponte ser%Ao perdidos     |
+|                                                          |
+|            [S] Sim                 [%N] %N%Ao               |
+|                                                          |
+ ========================================================== 

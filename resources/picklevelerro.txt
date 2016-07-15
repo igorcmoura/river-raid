@@ -1,0 +1,15 @@
+TTTTT                                                                      TTTTT
+TTTTT         Verifique se o mesmo se encontra na pasta "custom"           TTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTTTT                                                                 TTTTTTTT
+TTTTTT                Deseja procurar por outro arquivo?                  TTTTTT
+TTTTTT                                                                     TTTTT
+TTTTTT                [S] Sim                    [%N] %N%Ao                   TTTTT
+TTTTT                                                                     TTTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTTTT                                                                   TTTTTT
+TTTTTTTT                                                                TTTTTTTT
+TTTTTTTTT                                                             TTTTTTTTTT
+TTTTTTTTTTT                                                      TTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT                                           TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTT                         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

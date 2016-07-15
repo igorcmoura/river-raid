@@ -1,0 +1,25 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT          TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+W_WWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWPPPPPPPWW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WW_WWW_W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWPPPPPPPWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT              TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTT                           TTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTT                                          TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT                                                         TTTTTTTTTTTTT
+TTTTTTT                  Escolha a dificuldade:                         TTTTTTTT
+TTTTTT                                                                   TTTTTTT
+TTTTT                                                                      TTTTT
+TTTTT            [1] F%acil         [2] M%edio         [3] Dif%icil           TTTTT
+TTTTT                                               X                      TTTTT
+TTTTTT                                                      NNNN         TTTTTTT
+TTTTTTT                               NNNN           NNNN          X    TTTTTTTT
+TTTTTT             NNNN            X                                      TTTTTT
+TTTTTT                                                        X            TTTTT
+TTTTTT                                                   X       NNNN      TTTTT
+TTTTT                            NNNN                                     TTTTTT
+TTTTTT                                                NNNN       X       TTTTTTT
+TTTTTTT          X                   X                                    TTTTTT
+TTTTTTTT                                             X      NNNN        TTTTTTTT
+TTTTTTTTT                                                             TTTTTTTTTT
+TTTTTTTTTTT                                                      TTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT                                           TTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTT                         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
