@@ -40,9 +40,21 @@
 		<Unit filename="src/Jogo.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="src/MapGen.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="src/MapGen.h" />
+		<Unit filename="src/RaidAuxilia.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="src/RaidAuxilia.h" />
+		<Unit filename="src/RodaFase.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="src/RodaFase.h" />
+		<Unit filename="src/Scores.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="src/Scores.h" />
 		<Extensions>
 			<code_completion />

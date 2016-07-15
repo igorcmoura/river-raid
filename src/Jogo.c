@@ -1,4 +1,5 @@
 #include "RodaFase.h"
+#include "Scores.h"
 
 int menuEscolha(TGraphs g);
 int instrucoes(TGraphs *g);
